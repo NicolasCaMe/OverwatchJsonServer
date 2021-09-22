@@ -1,0 +1,64 @@
+{
+    "characters":[
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/tracer/hero-select-portrait.png",
+            "name": "Tracer",
+            "nationality": "Reino Unido",
+            "type": "Daño"   
+        },
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/soldier-76/hero-select-portrait.png",
+            "name": "Soldado 76",
+            "nationality": "Estados Unidos",
+            "type": "Daño"   
+        },
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/mercy/hero-select-portrait.png",
+            "name": "Mercy",
+            "nationality": "Suiza",
+            "type": "Soporte"   
+        },
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/mccree/hero-select-portrait.png",
+            "name": "McCree",
+            "nationality": "Estados Unidos",
+            "type": "Daño"   
+        },
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/moira/hero-select-portrait.png",
+            "name": "Moira",
+            "nationality": "Irlanda",
+            "type": "Soporte"   
+        },
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/sigma/hero-select-portrait.png",
+            "name": "Sigma",
+            "nationality": "Países bajos",
+            "type": "Tanque"   
+        },
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/lucio/hero-select-portrait.png",
+            "name": "Lucio",
+            "nationality": "Brazil",
+            "type": "Soporte"   
+        },
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/hanzo/hero-select-portrait.png",
+            "name": "Hanzo",
+            "nationality": "Japón",
+            "type": "Daño"   
+        },
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/ana/hero-select-portrait.png",
+            "name": "Ana",
+            "nationality": "Egipto",
+            "type": "Soporte"   
+        },
+        {
+            "image":"https://d1u1mce87gyfbn.cloudfront.net/hero/dva/hero-select-portrait.png",
+            "name": "D.VA",
+            "nationality": "Korea del sur",
+            "type": "Tanque"   
+        }
+    ]
+}
